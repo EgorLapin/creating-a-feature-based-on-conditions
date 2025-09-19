@@ -10,7 +10,7 @@
 
   Как использовать:  
 запустите скрипт:  
-python creating-a-feature-based-on-conditions.py  
+python creating_a_feature_based_on_conditions.py  
 Далее следуйте инструкциям, которые будут выведены:  
 Введите путь к файлу CSV или нажмите Enter, чтобы использовать датасет diabetes.  
 Введите имя столбца для создания признака (например, bmi для датасета diabetes).
